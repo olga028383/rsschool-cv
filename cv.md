@@ -1,10 +1,10 @@
 # Bordadyn Olga
 
-![My photo](/assets/photo.ipg)
+![My photo](assets/photo.jpg?raw=true)
 
 ## Contacts
-- [GitHub] (https://github.com/olga028383)
-- [Telegram] (https://t.me/olga_olga028383)
+- [GitHub](https://github.com/olga028383)
+- [Telegram](https://t.me/olga_olga028383)
 - Discord server rs-school - Olga (@olga028383)
 
 ## About me
@@ -119,14 +119,14 @@ class Favorites
 ```
 ## Work experience (from 2007 to present)
 
-- https://github.com/olga028383/375607-what-to-watch-7
-- https://github.com/olga028383/375607-cinemaddict-14
-- https://github.com/olga028383/375607-kekstagram-22
-- https://github.com/olga028383/375607-cat-energy-21
-- https://github.com/olga028383/375607-technomart-29
-- https://github.com/olga028383/375607-task-force-1
-- https://github.com/olga028383/375607-keksobooking
-- https://github.com/olga028383/375607-doingsdone
+- [https://github.com/olga028383/375607-what-to-watch-7](https://github.com/olga028383/375607-what-to-watch-7)
+- [https://github.com/olga028383/375607-cinemaddict-14](https://github.com/olga028383/375607-cinemaddict-14)
+- [https://github.com/olga028383/375607-kekstagram-22](https://github.com/olga028383/375607-kekstagram-22)
+- [https://github.com/olga028383/375607-cat-energy-21](https://github.com/olga028383/375607-cat-energy-21)
+- [https://github.com/olga028383/375607-technomart-29](https://github.com/olga028383/375607-technomart-29)
+- [https://github.com/olga028383/375607-task-force-1](https://github.com/olga028383/375607-task-force-1)
+- [https://github.com/olga028383/375607-keksobooking](https://github.com/olga028383/375607-keksobooking)
+- [https://github.com/olga028383/375607-doingsdone](https://github.com/olga028383/375607-doingsdone)
 
 ## Education
 
